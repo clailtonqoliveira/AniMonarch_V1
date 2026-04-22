@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "102817462483",
+    "project_id": "animonarch-4e429",
+    "storage_bucket": "animonarch-4e429.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102817462483:android:660c1da98cf450bd8a3c26",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj8tAbsscirSKDKCQKhLTuTzddkwIWS7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102817462483:android:618cbe7101c0720b8a3c26",
+        "android_client_info": {
+          "package_name": "com.monarch.labs.animonarch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj8tAbsscirSKDKCQKhLTuTzddkwIWS7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
