@@ -1,14 +1,21 @@
 plugins {
     id("com.android.application")
     id("kotlin-android")
+<<<<<<< HEAD
     id("com.google.gms.google-services")
     id("com.google.firebase.crashlytics")
+=======
+>>>>>>> fae529734cd6d55ed043a1d48af20c88811deb48
     // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
     id("dev.flutter.flutter-gradle-plugin")
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.animonarch"
+=======
+    namespace = "com.example.myapp"
+>>>>>>> fae529734cd6d55ed043a1d48af20c88811deb48
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 

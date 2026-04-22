@@ -18,7 +18,7 @@ class WatchProgressAdapter extends TypeAdapter<WatchProgress> {
     };
     return WatchProgress(
       animeId: fields[0] as int,
-      watchedEpisodes: (fields[1] as List).cast<int>().toSet(),
+      watchedEpisodes: (fields[1] as List).cast<int>(),
     );
   }
 
